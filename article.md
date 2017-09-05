@@ -1,4 +1,4 @@
-# Report of some awesome research 
+# Report of some SUPER MEGA CRAPPY research 
 
 ## Abstract
 Something on my research.
